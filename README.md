@@ -4,5 +4,5 @@
 1.基于Spring integration的企业服务总线ESB
 
 2.基于AntV X6的可视化图形界面
-![image](https://github.com/zhkin/integration-esb/main/1.jpg)
+![image](1.jpg)
 
